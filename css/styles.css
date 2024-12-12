@@ -223,12 +223,12 @@ button {
   .nav-punkt-st:hover {
     color: #404bbf;
   }
-  .nav-punkt-st: focus;
+  /* .nav-punkt-st: focus;
   .ul-adress-box: hover;
   .ul-adress-box: focus;
   .nav-punkt-st.current {
     color: #404bbf;
-  }
+  }*/
   .ul-adress-box {
     display: flex;
     flex-direction: column;
